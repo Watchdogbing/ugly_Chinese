@@ -1,2 +1,2 @@
-# ugly_Chinese
+#
 lol
